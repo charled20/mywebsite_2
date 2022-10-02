@@ -1,0 +1,77 @@
+/*creation 02 css start*/
+#creation02-body{
+    background-image: linear-gradient(
+		to right,
+		rgba(131, 58, 180, 0.5), 
+		rgba(253, 29, 29, 0.5),
+		rgba(252, 176, 69, 0.5)
+        );
+}
+#creation02-body #game-creation-02{
+    background-color: transparent;
+}
+#creation02-body #game-creation-02 .game-nav-style{
+    background-color: rgb(165, 161, 161);
+    height: 70px;
+}
+#creation02-body #game-creation-02 .game-container{
+    background-color: transparent;
+}
+#frame-links{
+    text-decoration:none; 
+    margin-top: 5px; 
+    margin-bottom: 5px;
+    color: white;
+}
+
+.btn-group button {
+    background-color: #0e243d; 
+    border: 1px solid #0e243d; 
+    color: white; 
+    padding: 18px 24px; 
+    cursor: pointer; 
+    width: 200px; 
+    display: block; 
+  }
+  
+  .btn-group a {
+    text-decoration: none;
+    color: white; 
+    background-color: #0e243d; 
+    border: 1px solid #0e243d; 
+    padding: 18px 24px; 
+    cursor: pointer; 
+    width: 200px; 
+    display: block; 
+  }
+  .btn-group a:hover{
+    background-color: #1e5088; 
+  }
+
+  /*---------------------------*/
+  
+ 
+  
+/* creation 02 css end*/
+
+/*iframe 01 start*/
+.bx-style{
+    background-color: white;
+    margin-top: 10px;
+    width: 450px;
+    height: 100%;
+}
+.bx-style .bx-title{
+    background-color: rgb(27, 47, 77);
+    color: white;
+}
+
+.bx-style table{
+    width: 100%;
+    border: solid gray 1px;
+}
+.bx-style table td{
+    border: solid gray 1px;
+}
+
+/*iframe 01 end*/
